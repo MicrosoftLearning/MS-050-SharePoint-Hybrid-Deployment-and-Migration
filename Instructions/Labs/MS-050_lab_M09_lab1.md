@@ -233,7 +233,7 @@ You have successfully synced local ADATUM users into Microsoft 365 and assigned 
     
     1.  **Microsoft Online Services Sign-In Assistant:**
         
-        Download and install **msoidcli\_64.msi** via link (<https://www.microsoft.com/en-us/download/details.aspx?id=39267>).
+        Download and install **msoidcli\_64.msi** via link (<https://www.microsoft.com/en-us/download/details.aspx?id=28177>).
 
         (You might need to restart the machine to finish the installation.)
 
